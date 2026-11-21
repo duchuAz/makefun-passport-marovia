@@ -10,4 +10,8 @@ node --experimental-strip-types main.ts
 
 The image is written to `/output/entry.png` (or `$OUTPUT_DIR/entry.png`).
 
-[![make.fun](https://img.shields.io/badge/make.fun-elite%20team-2f6f6a)](https://make.fun)
+## make.fun
+
+[![make.fun bounty](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318.svg)](https://make.fun/bounties/the-passport-page-of-a-countr-2-20261121-0318)
+[![rank](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/duchuAz/makefun-passport-marovia/rank.svg)](https://make.fun/bounties/the-passport-page-of-a-countr-2-20261121-0318)
+[![reward](https://make.fun/badge/the-passport-page-of-a-countr-2-20261121-0318/reward.svg)](https://make.fun/bounties/the-passport-page-of-a-countr-2-20261121-0318)
